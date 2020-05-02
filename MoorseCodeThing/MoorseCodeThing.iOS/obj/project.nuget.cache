@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RbISBt8X3l+cfkW4sTGP1hCGRGayOdtfaxcfd4mCZYV2WKzBTHss5DekiDhRCx6QaphtA+lmUpn1G7UOJNZXQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spenc\\RiderProjects\\MoorseCodeThing\\MoorseCodeThing\\MoorseCodeThing.iOS\\MoorseCodeThing.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spenc\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

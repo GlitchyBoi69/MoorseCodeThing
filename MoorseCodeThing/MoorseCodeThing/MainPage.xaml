@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MoorseCodeThing"
+             x:Class="MoorseCodeThing.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" x:Name="Label" />
+        <Button Clicked="DotButton_OnClicked" x:Name="DotButton" Text="."></Button>
+        <Button Clicked="DashButton_OnClicked" x:Name="DashButton" Text="-"></Button>
+        <Button Clicked="TranslateButton_OnClicked" x:Name="TranslateButton" Text="Translate"></Button>
+        <Button Clicked="ClearButton_OnClicked" Text="Clear"></Button>
+    </StackLayout>
+
+</ContentPage>

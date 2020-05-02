@@ -1,0 +1,12 @@
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\bin\Debug\netstandard2.0\MoorseCodeThing.deps.json
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\bin\Debug\netstandard2.0\MoorseCodeThing.dll
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\bin\Debug\netstandard2.0\MoorseCodeThing.pdb
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\MoorseCodeThing.csprojAssemblyReference.cache
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\MoorseCodeThing.csproj.CoreCompileInputs.cache
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\MoorseCodeThing.AssemblyInfoInputs.cache
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\MoorseCodeThing.AssemblyInfo.cs
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\MoorseCodeThing.dll
+C:\Users\spenc\RiderProjects\MoorseCodeThing\MoorseCodeThing\MoorseCodeThing\obj\Debug\netstandard2.0\MoorseCodeThing.pdb
